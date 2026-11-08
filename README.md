@@ -100,10 +100,10 @@ O Ignis está em produção interna, com dados reais, e por isso **o código-fon
 nesta página foi gravado numa cópia isolada, com bancos e cadastros **fictícios**.
 
 As técnicas que ele usa aparecem em projetos abertos deste perfil:
-[espelho incremental para o DW](https://github.com/EdyRocha2005/dw-tempo-real),
-[conferência por regras](https://github.com/EdyRocha2005/conferencia-nfse) e
-[relatórios automáticos](https://github.com/EdyRocha2005/relatorios-automaticos).
+[espelho incremental para o DW](https://github.com/EdyVerder/dw-tempo-real),
+[conferência por regras](https://github.com/EdyVerder/conferencia-nfse) e
+[relatórios automáticos](https://github.com/EdyVerder/relatorios-automaticos).
 
 ---
 
-<p align="center"><sub>Feito por <a href="https://github.com/EdyRocha2005">Rocha</a> · demonstração com dados fictícios</sub></p>
+<p align="center"><sub>Feito por <a href="https://github.com/EdyVerder">Rocha</a> · demonstração com dados fictícios</sub></p>
